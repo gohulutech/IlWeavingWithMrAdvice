@@ -1,0 +1,6 @@
+@IlWeavingWithMrAdvice_HostAddress = http://localhost:5157
+
+GET {{IlWeavingWithMrAdvice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
